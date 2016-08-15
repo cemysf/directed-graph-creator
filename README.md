@@ -27,6 +27,7 @@ TODO:
 - [ ] Different kinds of shapes
 - [ ] Resizable shapes for long texts (or resizable fonts?)
 - [ ] Show help menu
+- [ ] Adding/removing/changing titles for directed edges
 
 Github repo is at https://github.com/metacademy/directed-graph-creator
 
