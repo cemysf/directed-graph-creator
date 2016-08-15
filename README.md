@@ -22,6 +22,12 @@ Run:
 * `python -m SimpleHTTPServer 8000`
 * navigate to http://127.0.0.1:8000
 
+TODO:
+
+- [ ] Different kinds of shapes
+- [ ] Resizable shapes for long texts (or resizable fonts?)
+- [ ] Show help menu
+
 Github repo is at https://github.com/metacademy/directed-graph-creator
 
 License: MIT/X
